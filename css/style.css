@@ -1,0 +1,43 @@
+img {
+  opacity: 1 !important;
+  border-radius: 10%
+}
+hr {
+  
+}
+
+.block {
+  background: rgba(0, 0, 0, .8);
+  color: white;
+  padding: 50px;
+  width: 75%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 15px;
+  font-size: 1.5em;
+  padding-bottom: 2%;
+}
+
+.block2 {
+  background: rgba(0, 0, 0, .8);
+  color: white;
+  padding: 25px;
+  width: 37.5%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 15px;
+  padding-bottom: 5%;
+}
+
+.spacer {
+  padding: 5%;
+}
+
+body {
+  font-family: lobster;
+  background: no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
